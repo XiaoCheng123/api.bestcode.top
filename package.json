@@ -1,0 +1,22 @@
+{
+  "name": "api.bestcode.top",
+  "version": "1.0.0",
+  "description": "person server service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaoCheng123/api.bestcode.top.git"
+  },
+  "author": "xiaocheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiaoCheng123/api.bestcode.top/issues"
+  },
+  "homepage": "https://github.com/XiaoCheng123/api.bestcode.top#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
